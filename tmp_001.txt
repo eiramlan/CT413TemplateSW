@@ -2,3 +2,4 @@ Hello Git! This is me again
 Cillian Collins
 Karol Karwan
 Resolving some conflict here
+Jamie McArdle
